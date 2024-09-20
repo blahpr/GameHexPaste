@@ -1,6 +1,6 @@
 # GameHexPaste - For Windows
 * Latest exe Build (https://github.com/BLAHPR/GameHexPaste/releases/latest)
-### Designed for Adding and Subtracting Pointer Addresses Found Using Cheat Engine. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ! Only Accepts Game Hex for Now !
+### Designed for Adding and Subtracting Pointer Addresses Found Using Cheat Engine. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ! Only Accepts Game Hex for Now !
 ### I Made This to Make it Easier to Find the Other Addresses X, Y, and Z, When Using Cheat Engine. 
 ### *Usage: &nbsp; ! Copy n Paste Only !*
 1. &nbsp; 1st Pick None (Start), Copy n Paste Hex.
