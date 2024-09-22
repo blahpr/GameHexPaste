@@ -3,7 +3,7 @@
 ### Designed for Adding and Subtracting Hex Pointer Addresses Found Using Cheat Engine.
 ### I Made This to Make it Easier to Find the Other Addresses for X, Y, and Z, When Using Cheat Engine. 
 # *Usage: ! Copy n Paste Only !*
-1. &nbsp; 1st Pick None (Start), Copy n Paste HEX or DEC.
+1. &nbsp; 1st Pick None (Start), Copy n Paste HEX.
 2. &nbsp; Next Pick Desired Bubble.
 3. &nbsp; Hit Calculate.
 4. &nbsp; Clear and Repeat as Needed.
