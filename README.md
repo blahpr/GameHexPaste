@@ -12,9 +12,6 @@
 
 ![Captur3e](https://github.com/user-attachments/assets/8eb4fae8-a92c-4f78-8a5a-3f16c6afc421)
 ![Capture](https://github.com/user-attachments/assets/7435eee5-0c6b-43cb-baa4-695a7f0ec88f)
-![1](https://github.com/user-attachments/assets/e99632f4-aaae-447f-a709-9b1c769fbd42)
-![2](https://github.com/user-attachments/assets/2222de18-252c-4a05-8fc4-6cd746afb314)
-
 
 # *Note: For Game Reverse Engineering Only.*
 ### Anyone Can Make Changes As They See Fit. Like Change Stuff, Add Stuff, Dislike Stuff You Can Please Feel Free.
